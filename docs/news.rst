@@ -1,6 +1,8 @@
 News
 ====
 
+* 03/23/2026: `mogutda` 0.4.6 released.
+* 10/11/2025: `mogutda` 0.4.5 released.
 * 01/09/2025: `mogutda` 0.4.4 released.
 * 09/19/2024: `mogutda` 0.4.3 released.
 * 07/16/2024: `mogutda` 0.4.2 released.
